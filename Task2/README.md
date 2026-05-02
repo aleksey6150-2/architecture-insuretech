@@ -32,3 +32,10 @@ Task2/
   prometheus-adapter-values.yaml
   hpa-rps.yaml
   screenshots/
+```
+
+![00dvizh.png](screenshots/00dvizh.png)
+![01prometheus.png](screenshots/01prometheus.png)
+![02prometheus2.png](screenshots/02prometheus2.png)
+![03prometheus3.png](screenshots/03prometheus3.png)
+![04post-hpa.png](screenshots/04post-hpa.png)
